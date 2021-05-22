@@ -1,0 +1,136 @@
+body {
+  font-family: "Karla";
+}
+
+h1 {
+  font-family: "Cabin";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: "Cabin";
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Cabin";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+/* Title */
+#title {
+  background-color: #fff9b0;
+}
+
+.navbar {
+  background-color: #ffab73;
+}
+
+.container-fluid {
+  padding: 3% 10%;
+}
+
+.main-btn {
+  margin: 3% 3% 3% 0;
+}
+
+.bubblemain-image {
+  width: 80%;
+}
+
+/* Menu */
+#menu {
+  background-color: #ffaec0;
+  text-align: center;
+  padding: 3% 5% 5%;
+}
+
+.boba-menu {
+  width: 40%;
+  margin: auto;
+}
+
+/* Features */
+#features {
+  background-color: #ffd384;
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.feature-icon {
+  color: #cf0000;
+  margin-bottom: 1rem;
+}
+
+.feature-icon:hover {
+  color: #810000;
+}
+
+/* Testimonials */
+#testimonials {
+  background-color: #ffaec0;
+  text-align: center;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Pricing */
+#pricing {
+  background-color: #ffd384;
+  padding: 100px;
+  text-align: center;
+}
+
+.shop-img {
+  width: 5%;
+}
+
+.pricing-col {
+  padding: 3% 2%;
+}
+
+.card-image {
+  width: 50%;
+  margin: 5% auto;
+}
+
+/* Call to Action */
+#cta {
+  background-color: #fff9b0;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+/* Footer */
+#footer {
+  background-color: #ffab73;
+  padding: 3% 7%;
+  text-align: center;
+}
+
+.payment-icon {
+  color: #cf0000;
+  margin: 20px 5px 10px;
+}
+
+.payment-icon:hover {
+  color: #810000;
+}
+
+.social-icon {
+  color: #cf0000;
+  margin: 20px 10px;
+}
+
+.social-icon:hover {
+  color: #810000;
+}
